@@ -1,0 +1,11 @@
+.logo {
+  height: 2.5em;
+}
+
+.ui.menu .item > img:not(.ui) {
+  width: 10.5em;
+}
+.selected {
+  border-color: #21ba45 !important;
+  color: #21ba45 !important;
+}
