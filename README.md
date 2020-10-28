@@ -2,7 +2,7 @@
 # Solution - TUNE Coding Challenge
 
 demo.PNG provides a glimplse of how the app looks.
-![demo.PNG](https://github.com/farman-a-shah/tune_coding_challenge/blob/main/README.md?raw=true)
+![demo.PNG](https://github.com/farman-a-shah/tune_coding_challenge/blob/main/demo.PNG?raw=true)
 
 
 ## Intallation Steps
