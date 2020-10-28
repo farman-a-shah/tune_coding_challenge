@@ -59,8 +59,6 @@ This module is UserDashboard module. Which is used in App.js.
 UserDashboard fetches data and calls CardComponent to build cards. Which in turn uses Charts component and the 3rd party Avatar package.
 Semantic UI package is used for rendering Cards inside CardComponent.
 
-To get this running on your machine, node_modules would be needed. Please run npm install inside solution-farman/app/ directory.
-
 
 ## Backend:
 I created a custom Model-Controller framework for this. Runs on port 80 of my local machine.
