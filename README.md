@@ -15,9 +15,9 @@ PHP and HTTP services are required to run this server.
 
 Start the php service so that the following url is accessible from the browser:
 
-<pre>http://localhost:<php port>/tune_coding_challenge/server/v1/user/users/</pre>
+<pre>http://localhost:&lt;php port&gt;/tune_coding_challenge/server/v1/user/users/</pre>
 
-If your php service is on a port other than port 80, edit <git root>/app/src/api/api.js file and update the port in the url as http://localhost:<php port>/tune_coding_challenge/server/v1/user/users/.
+If your php service is on a port other than port 80, edit &lt;git root&gt;/app/src/api/api.js file and update the port in the url as http://localhost:&lt;php port&gt;/tune_coding_challenge/server/v1/user/users/.
 
 
 ### React App
@@ -25,7 +25,7 @@ If your php service is on a port other than port 80, edit <git root>/app/src/api
 npm (Node Package Manager) is required for the React App. Please see the details here and install the npm first:
 <pre>https://www.npmjs.com/get-npm</pre>
 
-Open command prompt inside <git root>/app folder where package.json is located. And run the following command:
+Open command prompt inside &lt;git root&gt;/app folder where package.json is located. And run the following command:
 
 <pre>npm install</pre>
 
